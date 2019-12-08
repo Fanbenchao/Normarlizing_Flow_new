@@ -37,8 +37,8 @@ sampling concurrently.
 
 ## goal for this repository
 
-the origianl codes provided by the author have some running problem, and the pretrained model seems to not work well. 
-Therefore, I do some modification based on the original codes and rewrite the training codes which estimate the algorithm 
+the origianl codes provided by the author have some running problems, and the pretrained model seems to not work well. 
+Therefore, I do some modifications based on the original codes and rewrite the training codes which estimate the algorithm 
 performance using KL between the real noise image and the generating noise image. After a serise of experiment, I find this 
 algorithm is limit for specific cam and iso.
 
